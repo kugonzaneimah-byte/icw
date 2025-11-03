@@ -405,7 +405,7 @@ background: transparent;
 header{
     display: inline-block;
     justify-content: space-between;
-    border: 1px solid gray;
+    
 }
 .support{
     display: block;
@@ -415,3 +415,4 @@ header{
     margin-top: 50px;
 }
 }
+
